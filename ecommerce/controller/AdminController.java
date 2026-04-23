@@ -12,7 +12,8 @@ import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 // NARENDRA 
-// PARMAR good person hai
+// PARMAR 
+// jitendra parmar 
 @RestController
 @Validated
 @RequestMapping("/admin")
